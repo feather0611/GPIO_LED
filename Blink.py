@@ -1,3 +1,4 @@
+# -*- coding: UTF-8 -*-
 # import necessary library 匯入RPi.GPIO與time時間函式庫
 import RPi.GPIO as GPIO   
 import time   
